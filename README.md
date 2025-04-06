@@ -25,7 +25,8 @@ Verve.ai is a personal reflection companion that helps you stay aligned with you
 
 ---
 
-![Screenshot 2024-04-29 221711](https://github.com/user-attachments/assets/d3f7f5ac-5ae3-4f81-ac65-6478e1b2334f)
+![Screenshot 2025-04-07 004800](https://github.com/user-attachments/assets/b4683d88-e901-4ab7-abb4-2bc934d0b95d)
+
 
 ## Tech Stack
 
