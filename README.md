@@ -80,6 +80,9 @@ Contributing
 We welcome contributions! Feel free to fork the repo, raise issues, or submit PRs.
 ---
 
+![Screenshot 2025-04-07 004837](https://github.com/user-attachments/assets/c95a6ac8-de98-4733-8172-cfb89e65f61f)
+
+
 Acknowledgements
 
 Built with love by Team NBCs at GTBIT.
