@@ -1,4 +1,4 @@
-![Screenshot 2025-04-07 004118](https://github.com/user-attachments/assets/b0e6d713-90bd-42fb-98a5-985c4fb2d439)
+![VerveHeader](https://github.com/user-attachments/assets/3437bf93-c75f-456d-9caf-ce8a20af3a3a)
 
 # Verve.ai
 
