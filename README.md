@@ -2,7 +2,7 @@
 
 **A Digital Reflection of You.**
 
-Verve.ai is a privacy-conscious AI assistant that helps you stay aligned with your goals, energy, and intentions. It analyzes your routines, tasks, and habits — and offers deeply personal insights through a calm, conversational avatar.
+Verve.ai is a personal reflection companion that helps you stay aligned with your goals, energy, and intentions. It analyzes your routines, tasks, and habits — and offers deeply personal insights through a calm, conversational avatar.
 
 ---
 
@@ -15,7 +15,7 @@ Verve.ai is a privacy-conscious AI assistant that helps you stay aligned with yo
   Automatically syncs your schedule using the Google Calendar API.
 
 - **Insight Engine:**  
-  Analyzes patterns in your schedule to detect burnout, productivity dips, or streaks.
+  Analyzes patterns in your journal entries to detect burnout, productivity dips, or streaks.
 
 - **Metrics Dashboard:**  
   Visualize cognitive performance, focus hours, productivity, and sleep patterns.
@@ -28,13 +28,13 @@ Verve.ai is a privacy-conscious AI assistant that helps you stay aligned with yo
 ## Tech Stack
 
 - **Frontend:** TypeScript, Tailwind CSS  
-- **Framework:** Loable  
-- **Backend:** Supabase (Database + Auth)  
+- **Backend:** FastAPI, Supabase   
 - **Scripting:** Python  
-- **APIs:**  
+- **AI & LLMs:** LLaMA 3 via Ollama, SentenceTranformer
+- **APIs:** 
   - Google Calendar API (sync tasks & routines)  
-  - D-ID Avatar API (planned)
-
+  - D-ID Avatar API 
+- **Deployment & Hosting:** Docker, Vercel
 ---
 
 ## How It Works
@@ -63,7 +63,6 @@ npm run dev
 
 
 
-
 ---
 
 Contributing
@@ -76,7 +75,3 @@ Acknowledgements
 Built with love by Team NBCs at GTBIT.
 Special thanks to Nexus – The AI Society of GTBIT for organizing the hackathon where Verve.ai was born.
 
-
----
-
-Let me know if you want a version with images/badges or to link to your live demo!
